@@ -30,7 +30,7 @@ int question_n0=1;
 
         TextView tv1 = (TextView) findViewById(R.id.tv1);
         EditText et1 = (EditText) findViewById(R.id.et1);
-        TextView bt1 = (Button) findViewById(R.id.bt1);
+        Button bt1 = (Button) findViewById(R.id.bt1);
 
 
 
